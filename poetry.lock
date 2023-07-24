@@ -1,0 +1,15 @@
+[[package]]
+name = "colored"
+version = "2.2.3"
+description = "Simple python library for color and formatting to terminal"
+category = "main"
+optional = false
+python-versions = ">=3.9"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.10"
+content-hash = "5a91a3761c97b49e321d2a5589787220c3f1210bb30c0c3a691625906d4cfdb0"
+
+[metadata.files]
+colored = []
