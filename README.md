@@ -24,7 +24,8 @@ git clone https://github.com/tucommenceapousser/HtmlSmugglin.git
 cd HtmlSmugglin
 python HtmlSmuggling.py <FileName> <MalwarePath>
 ```
-[![Run on Replit][(https://replit.com/badge/github.com/tucommenceapousser/HtmlSmugglin)](https://replit.com/github.com/tucommenceapousser/HtmlSmugglin)
+[![Run on Replit](https://replit.com/badge/github/tucommenceapousser/HtmlSmugglin)](https://replit.com/github/tucommenceapousser/HtmlSmugglin)
+
 
 
 ***
