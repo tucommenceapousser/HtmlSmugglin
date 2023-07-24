@@ -4,16 +4,16 @@ try:
 except ImportError:
     os.system("pip install colored")
 cyann  = fg("cyan")     + attr("bold")
-greenn = fg("#33ff29")  + attr("bold")
-mof    = fg("#ab01ff")  + attr("bold")
+greenn = fg("green")  + attr("bold")
+mof    = fg("green")  + attr("bold")
 white  = fg("white")    + attr("bold")
-error  = fg("#ff1d00")  + attr("bold")
+error  = fg("red")  + attr("bold")
 bluee = fg("blue")      + attr("bold")
-mof = fg("#CB88D8")      + attr("bold")
-b = fg("#E91377")      + attr("bold")
-y = fg("#FCF800")      + attr("bold")
+mof = fg("blue")      + attr("bold")
+b = fg("red")      + attr("bold")
+y = fg("red")      + attr("bold")
 backg  = error + bg("white")     + attr("bold")
-back = error + bg("#ab01ff")     + attr("bold")
+back = error + bg("red")     + attr("bold")
 bk = bg("white")     + attr("bold")
 # def randoms_sequences():
 #     # randoms = [
@@ -31,7 +31,7 @@ def bannare():
 {error}       _  _ ___ _  _ _    ____ _  _ _  _ ____ ____ _    _ _  _ ____ 
 {mof}       |__|  |  |\/| |    [__  |\/| |  | | __ | __ |    | |\ | | __ 
 {y}       |  |  |  |  | |___ ___] |  | |__| |__] |__] |___ | | \| |__] 
-{cyann}            created by : {greenn}Abdulrahman Mohammed {y}({error}De3vil{y})                                                        
+{cyann}            created by : {cyann}trhacknon {y}({error}trkn{y})                                                        
 
 """
     print(bannar)
@@ -165,10 +165,10 @@ if __name__ == '__main__':
         with open ("mido_template.html","w",encoding="utf-8") as Midohtml:
             Midohtml.write(template)
         print()
-        print(f'\t{white}[{bluee}+{white}] The {error}{bk}Template.html{style.RESET} {white}file has been created {greenn}successfully.{style.RESET}')
-        print(f'\t{white}[{bluee}+{white}] Script File: {error}{bk}"jscode.txt" {style.RESET}')
+        print(f'\t{white}[{bluee}+{white}] The {error}{bk}mido_template.html {white}file has been created {greenn}successfully.')
+        print(f'\t{white}[{bluee}+{white}] Script File: {error}{bk}"script.txt" ')
         print()
     except Exception as e:
         print(e)
-        print(f'\t{error}An unexpected error has occurred!{style.RESET}')
+        print(f'\t{error}An unexpected error has occurred!')
         print()
