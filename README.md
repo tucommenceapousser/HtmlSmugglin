@@ -20,20 +20,20 @@
 
 ### Installation to Windows:
 ```bash
-git clone https://github.com/De3vil/HtmlSmuggling.git
-cd HtmlSmuggling
+git clone https://github.com/tucommenceapousser/HtmlSmugglin.git
+cd HtmlSmugglin
 python HtmlSmuggling.py <FileName> <MalwarePath>
 ```
 
 
 ***
  ## [+] Find Me on :
-<h4> Abdulrahman Mohammed </h4>
-  <a href="https://www.linkedin.com/in/de3vil/">
-     <img src="https://img.shields.io/badge/De3vil-blue?style=for-the-badge&logo=linkedin&logoColor=00AEFF&l">
+<h4> trhacknon </h4>
+  <a href="https://www.linkedin.com/in/">
+     <img src="https://img.shields.io/badge/tucommenceapousser-blue?style=for-the-badge&logo=linkedin&logoColor=00AEFF&l">
 </a>
-  <a href="https://www.facebook.com/De3vil.3">
-     <img src="https://img.shields.io/badge/De3vil__3-blue?style=for-the-badge&logo=Facebook&logoColor=00AEFF&labelColor=black&color=black">
+  <a href="https://www.facebook.com/">
+     <img src="https://img.shields.io/badge/tucommenceapousser-blue?style=for-the-badge&logo=Facebook&logoColor=00AEFF&labelColor=black&color=black">
   </a>
 
 
